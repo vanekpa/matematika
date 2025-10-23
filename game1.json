@@ -1,0 +1,19 @@
+{
+  "packs": [
+    {
+      "id": "koala-3x3",
+      "label": "Koala (3×3)",
+      "mode": "PUZZLE",
+      "image": "https://i.imgur.com/1T64ZoW.jpeg",
+      "grid": [3,3],
+      "themeColor": "#FFB300"
+    },
+    {
+      "id": "flowers-quiz",
+      "label": "Kvíz: Louka",
+      "mode": "QUIZ",
+      "themeColor": "#3BBF60",
+      "imageSet": ["https://i.imgur.com/TehhY8Y.jpeg"]
+    }
+  ]
+}
