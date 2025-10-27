@@ -5,7 +5,7 @@
       "label": "Koala (3×3)",
       "mode": "PUZZLE",
       "image": "https://i.imgur.com/1T64ZoW.jpeg",
-      "grid": [3,3],
+      "grid": [3, 3],
       "themeColor": "#FFB300"
     },
     {
@@ -17,7 +17,7 @@
     }
   ],
   "ads": [
-    { "img": "https://qminers.com/_media/65f4623f7b876_ucitel-nazivo.svg, "seconds": 6 },
+    { "img": "https://qminers.com/_media/65f4623f7b876_ucitel-nazivo.svg", "seconds": 6 },
     { "img": "https://canvaveskole.com/_assets/media/299eb09ebce04051d7440f86a23b56ab.png", "seconds": 8 }
   ]
 }
