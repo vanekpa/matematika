@@ -15,5 +15,9 @@
       "themeColor": "#3BBF60",
       "imageSet": ["https://i.imgur.com/TehhY8Y.jpeg"]
     }
+  ],
+  "ads": [
+    { "img": "https://qminers.com/_media/65f4623f7b876_ucitel-nazivo.svg, "seconds": 6 },
+    { "img": "https://canvaveskole.com/_assets/media/299eb09ebce04051d7440f86a23b56ab.png", "seconds": 8 }
   ]
 }
